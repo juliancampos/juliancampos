@@ -28,6 +28,18 @@ Tenho como prioridade o desenvolvimento de soluções com boa arquitetura, busca
 
 ### 🤖 Linguagens e Tecnologias
 
+
+
+
+<img 
+    align="left" 
+    alt="NODEJS"
+    title="NODEJS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="HTML"
@@ -36,6 +48,7 @@ Tenho como prioridade o desenvolvimento de soluções com boa arquitetura, busca
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
