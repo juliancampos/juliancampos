@@ -29,7 +29,42 @@ Tenho como prioridade o desenvolvimento de soluções com boa arquitetura, busca
 ### 🤖 Linguagens e Tecnologias
 
 
+<img 
+    align="left" 
+    alt="TYPESCRIPT"
+    title="TYPESCRIPT" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" 
+/>
 
+<img 
+    align="left" 
+    alt="K6"
+    title="K6" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/k6/k6-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="EXPRESS"
+    title="EXPRESS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/express/express-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="MONGODB"
+    title="MONGODB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mongodb/mongodb-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -65,14 +100,6 @@ Tenho como prioridade o desenvolvimento de soluções com boa arquitetura, busca
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
 
 <img 
     align="left" 
@@ -91,6 +118,28 @@ Tenho como prioridade o desenvolvimento de soluções com boa arquitetura, busca
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+
+<img 
+    align="left" 
+    alt="RABBITMQ" 
+    title="RABBITMQ"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/rabbitmq/rabbitmq-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="REDIS" 
+    title="REDIS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/redis/redis-original.svg" 
+/>
+
+
 
 <br/>
 <br/>
