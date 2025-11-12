@@ -139,6 +139,25 @@ Tenho como prioridade o desenvolvimento de soluções com boa arquitetura, busca
     src="https://github.com/devicons/devicon/blob/v2.17.0/icons/redis/redis-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="GRAPHQL" 
+    title="GRAPHQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/graphql/graphql-plain.svg" 
+/>
+
+
+
+<img 
+    align="left" 
+    alt="KAFKA" 
+    title="KAFKA"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/apachekafka/apachekafka-original.svg" 
+/>
 
 
 <br/>
