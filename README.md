@@ -6,20 +6,21 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-## Olá! Eu sou o Julian !!!
+## Hello !!!
 
 **`Desenvolvedor Web`**
 
-Trabalho com desenvolvimento de software há mais de 15 anos, com experiência em sistemas desktop e web.
+I have over 15 years of experience in software development, working with both desktop and web applications.
 
-Possuo sólida vivência com diversas tecnologias, como Node.js, PHP e Clojure, além de experiência com diferentes bancos de dados, incluindo MySQL, PostgreSQL, MongoDB e Oracle.
-No que diz respeito a serviços em nuvem, já atuei com AWS e GCP em projetos profissionais. Em projetos pessoais, explorei e configurei outras plataformas, como o Fly.io.
+I have extensive experience with a wide range of technologies, including Node.js, PHP, and Clojure, as well as various database systems such as MySQL, PostgreSQL, MongoDB, and Oracle.
 
-Acredito que meu principal diferencial seja a capacidade de aprendizado e adaptação. Tive a oportunidade de atuar em empresas de diferentes segmentos — Saúde, Financeiro e Marketing — o que ampliou minha visão de negócio e minha versatilidade técnica. Entre as linguagens com as quais trabalhei, destaco minha experiência com Nodejs.
+Regarding cloud services, I have worked with AWS and GCP in professional projects. In personal projects, I have also explored and configured other platforms, such as Fly.io.
 
-Em minha última experiência profissional, atuei como Tech Lead de equipes responsáveis por um produto white label. Nesse projeto, desenvolvemos microserviços orientados a eventos, com comunicação via Kafka e utilização de banco de dados MongoDB em uma arquitetura multi-tenant.
+I believe my greatest strength is my ability to learn quickly and adapt to new challenges. Throughout my career, I have had the opportunity to work for companies across different industries, including Healthcare, Finance, and Marketing, which has broadened my business perspective and strengthened my technical versatility. Among the programming languages I have worked with, Node.js is one of my main areas of expertise.
 
-Tenho como prioridade o desenvolvimento de soluções com boa arquitetura, buscando sempre escalabilidade, confiabilidade e facilidade de monitoramento. 
+In my most recent professional experience, I worked as a Tech Lead, leading teams responsible for developing a white-label product. We built event-driven microservices using Kafka for communication and MongoDB as the database, following a multi-tenant architecture.
+
+My priority is to develop well-architected software solutions, always focusing on scalability, reliability, and ease of monitoring.
 
 ---
 
